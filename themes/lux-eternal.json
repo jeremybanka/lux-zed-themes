@@ -155,7 +155,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#0af",
+            "color": "#35d",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -185,7 +185,7 @@
             "font_weight": 500
           },
           "constant.builtin": {
-            "color": "#35d",
+            "color": "#0af",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -633,7 +633,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#5af",
+            "color": "#67f",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
@@ -663,7 +663,7 @@
             "font_weight": 500
           },
           "constant.builtin": {
-            "color": "#67f",
+            "color": "#5af",
             "background_color": null,
             "font_style": "normal",
             "font_weight": 500
