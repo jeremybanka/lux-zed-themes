@@ -505,7 +505,7 @@
         "ghost_element.background": null,
         "ghost_element.hover": "#222",
         "ghost_element.active": "#000",
-        "ghost_element.selected": "#000",
+        "ghost_element.selected": "#222",
         "ghost_element.disabled": null,
         "text": "#ccc",
         "text.muted": "#999",
