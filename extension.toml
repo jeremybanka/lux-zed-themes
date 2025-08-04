@@ -1,7 +1,7 @@
 id = "lux"
-name = "Lux"
-version = "0.0.1"
+name = "Lux Eternal"
+version = "1.0.0"
 schema_version = 1
 authors = ["Jeremy Banka <hello@jeremybanka.com>"]
-description = "My cool extension"
-repository = "https://github.com/jeremybanka/my-zed-theme"
+description = "Simple themes that emphasize usability, clear color blocking, and depth."
+repository = "https://github.com/jeremybanka/lux-zed-themes"

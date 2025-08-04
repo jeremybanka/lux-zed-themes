@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Lux",
+  "name": "Lux Eternal",
   "author": "Jeremy Banka <hello@jeremybanka.com>",
   "themes": [
     {
-      "name": "Lux Sunny",
+      "name": "Lux White",
       "appearance": "light",
       "style": {
         "background.appearance": "opaque",
@@ -482,7 +482,7 @@
       }
     },
     {
-      "name": "Lux New Moon",
+      "name": "Lux Black",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -628,7 +628,7 @@
           {
             "cursor": "#fff",
             "background": "#222",
-            "selection": "#02a5"
+            "selection": "#02a7"
           }
         ],
         "syntax": {
