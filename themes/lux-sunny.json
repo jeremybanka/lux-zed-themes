@@ -554,7 +554,7 @@
         "editor.document_highlight.read_background": "#c5f2",
         "editor.document_highlight.write_background": "#6c01",
         "terminal.background": "#000",
-        "terminal.foreground": "#222",
+        "terminal.foreground": "#aaa",
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
         "terminal.ansi.black": "#333",
