@@ -546,7 +546,7 @@
         "editor.highlighted_line.background": "#00000013",
         "editor.line_number": "#555",
         "editor.active_line_number": "#aaa",
-        "editor.invisible": "#141414",
+        "editor.invisible": "#aaa",
         "editor.wrap_guide": "#0000001a",
         "editor.active_wrap_guide": "#0000001a",
         "editor.indent_guide": "#0000001a",
