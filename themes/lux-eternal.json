@@ -158,6 +158,21 @@
             "selection": "#0a73"
           },
           {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f3"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a703"
+          },
+          {
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f3"
+          },
+          {
             "cursor": "#b08",
             "background": "#b08",
             "selection": "#b083"
@@ -171,21 +186,6 @@
             "cursor": "#e84",
             "background": "#e84",
             "selection": "#e843"
-          },
-          {
-            "cursor": "#47f",
-            "background": "#47f",
-            "selection": "#47f3"
-          },
-          {
-            "cursor": "#a70",
-            "background": "#a70",
-            "selection": "#a703"
-          },
-          {
-            "cursor": "#60f",
-            "background": "#60f",
-            "selection": "#60f3"
           }
         ],
         "syntax": {
@@ -671,6 +671,22 @@
             "selection": "#0a74"
           },
           {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f4"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a704"
+          },
+          {
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f4"
+          },
+
+          {
             "cursor": "#b08",
             "background": "#b08",
             "selection": "#b084"
@@ -684,21 +700,6 @@
             "cursor": "#e84",
             "background": "#e84",
             "selection": "#e844"
-          },
-          {
-            "cursor": "#47f",
-            "background": "#47f",
-            "selection": "#47f4"
-          },
-          {
-            "cursor": "#a70",
-            "background": "#a70",
-            "selection": "#a704"
-          },
-          {
-            "cursor": "#60f",
-            "background": "#60f",
-            "selection": "#60f4"
           }
         ],
         "syntax": {
