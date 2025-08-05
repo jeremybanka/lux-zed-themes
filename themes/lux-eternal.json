@@ -148,9 +148,39 @@
         "warning.border": "#c90a",
         "players": [
           {
-            "cursor": "#000",
-            "background": "#fffffff7",
-            "selection": "#0066ff1c"
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f3"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a703"
+          },
+          {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f3"
+          },
+          {
+            "cursor": "#0a7",
+            "background": "#0a7",
+            "selection": "#0a73"
+          },
+          {
+            "cursor": "#b08",
+            "background": "#b08",
+            "selection": "#b083"
+          },
+          {
+            "cursor": "#69a",
+            "background": "#69a",
+            "selection": "#69a3"
+          },
+          {
+            "cursor": "#e84",
+            "background": "#e84",
+            "selection": "#e843"
           }
         ],
         "syntax": {
@@ -524,7 +554,7 @@
         "tab_bar.background": "#141414",
         "tab.inactive_background": "#eeeeee00",
         "tab.active_background": "#000",
-        "search.match_background": "#5af5",
+        "search.match_background": "#01fd",
         "panel.background": "#141414",
         "panel.focused_border": "#555",
         "panel.indent_guide": "#333",
@@ -603,9 +633,9 @@
         "ignored": "#444",
         "ignored.background": "#444a",
         "ignored.border": "#444",
-        "info": "#67f",
-        "info.background": "#67f3",
-        "info.border": "#67f",
+        "info": "#01f",
+        "info.background": "#01f3",
+        "info.border": "#01f",
         "modified": "#36c",
         "modified.background": "#36c3",
         "modified.border": "#36ca",
@@ -626,9 +656,39 @@
         "warning.border": "#fa0",
         "players": [
           {
-            "cursor": "#fff",
-            "background": "#222",
-            "selection": "#02a7"
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f4"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a704"
+          },
+          {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f4"
+          },
+          {
+            "cursor": "#0a7",
+            "background": "#0a7",
+            "selection": "#0a74"
+          },
+          {
+            "cursor": "#b08",
+            "background": "#b08",
+            "selection": "#b084"
+          },
+          {
+            "cursor": "#69a",
+            "background": "#69a",
+            "selection": "#69a4"
+          },
+          {
+            "cursor": "#e84",
+            "background": "#e84",
+            "selection": "#e844"
           }
         ],
         "syntax": {
