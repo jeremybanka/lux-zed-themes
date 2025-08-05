@@ -148,19 +148,9 @@
         "warning.border": "#c90a",
         "players": [
           {
-            "cursor": "#47f",
-            "background": "#47f",
-            "selection": "#47f3"
-          },
-          {
-            "cursor": "#a70",
-            "background": "#a70",
-            "selection": "#a703"
-          },
-          {
-            "cursor": "#60f",
-            "background": "#60f",
-            "selection": "#60f3"
+            "cursor": "#333",
+            "background": "#333",
+            "selection": "#3332"
           },
           {
             "cursor": "#0a7",
@@ -181,6 +171,21 @@
             "cursor": "#e84",
             "background": "#e84",
             "selection": "#e843"
+          },
+          {
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f3"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a703"
+          },
+          {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f3"
           }
         ],
         "syntax": {
@@ -656,19 +661,9 @@
         "warning.border": "#fa0",
         "players": [
           {
-            "cursor": "#47f",
-            "background": "#47f",
-            "selection": "#47f4"
-          },
-          {
-            "cursor": "#a70",
-            "background": "#a70",
-            "selection": "#a704"
-          },
-          {
-            "cursor": "#60f",
-            "background": "#60f",
-            "selection": "#60f4"
+            "cursor": "#ccc",
+            "background": "#ccc",
+            "selection": "#ccc2"
           },
           {
             "cursor": "#0a7",
@@ -689,6 +684,21 @@
             "cursor": "#e84",
             "background": "#e84",
             "selection": "#e844"
+          },
+          {
+            "cursor": "#47f",
+            "background": "#47f",
+            "selection": "#47f4"
+          },
+          {
+            "cursor": "#a70",
+            "background": "#a70",
+            "selection": "#a704"
+          },
+          {
+            "cursor": "#60f",
+            "background": "#60f",
+            "selection": "#60f4"
           }
         ],
         "syntax": {
